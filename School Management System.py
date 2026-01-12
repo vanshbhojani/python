@@ -102,7 +102,7 @@ class SchoolManagement:
 
     # ---------------- EXIT SYSTEM ----------------#
     def exit_system(self):
-        print("Thank you for using School Management System")
+        print("Thank you for using School Management System ")
         exit()
 
 
@@ -138,4 +138,3 @@ while True:
 
     else:
         print(" Invalid choice, try again.")
-
